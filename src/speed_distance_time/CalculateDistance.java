@@ -36,6 +36,6 @@ enter speed in kmph
 enter time in hours 
 3
 Distance in kilometers= 150.0km
-Distance in meters= 150000.0m
+Distance in meters= 150000.0
 
 */
